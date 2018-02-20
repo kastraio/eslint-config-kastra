@@ -1,10 +1,10 @@
 {
   "name": "@kastra/eslint-config-kastra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opinionated JavaScript style for Kastra services and anyone else.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tfussell/eslint-config-kastra.git"
+    "url": "https://github.com/kastraio/eslint-config-kastra.git"
   },
   "keywords": [
     "style guide",
@@ -17,5 +17,5 @@
   ],
   "author": "Thomas Fussell <thomas.fussell@gmail.com> (https://twitter.com/tfussell)",
   "license": "MIT",
-  "homepage": "https://github.com/tfussell/eslint-config-kastra",
+  "homepage": "https://github.com/kastraio/eslint-config-kastra"
 }
